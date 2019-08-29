@@ -8,3 +8,4 @@
 
 1. a-programmer-prepares.pdf
    > 程序员的自我修养
+   > Redis开发运维实践指南
